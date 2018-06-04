@@ -1,0 +1,6 @@
+[package]
+name = "discrete_event_simulation"
+version = "0.1.0"
+authors = ["caffeine-potent <ottoXwagner@gmail.com>"]
+
+[dependencies]
